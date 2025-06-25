@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshika Aggarwal</h1>
 <h3 align="center">Hello! I'm a passionate software engineer with expertise in Java Full Stack Development and experience working on critical projects at DRDO as a Project Engineer. I specialize in building secure, scalable applications using Spring Framework with enterprise-grade databases.</h3>
 
+<img align="right" height="181" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFycHNnajBuNjJkYTg1MHRlb2RlNWtjdmNwbGl6dWcxaTl5c295aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+
 - 🔭 I’m currently working on **Simulations Project at DRDO**
 
 - 🌱 I’m currently learning **Springboot, System Design**
